@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://thompsonnaomi-fs.github.io/MemoryLane/'
 languageCode = 'en-us'
 title = 'Educational Thoughts'
 theme = 'memoryLane'
