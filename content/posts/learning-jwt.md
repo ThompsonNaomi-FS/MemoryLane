@@ -1,7 +1,7 @@
 ---
 title: "Learning Jwt"
 date: 2022-12-01T17:08:23-06:00
-draft: true
+draft: false
 tags: ["json web token", "jwt", "security"]
 ---
 
